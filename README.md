@@ -181,7 +181,7 @@ Exam-Ace is an AI-powered quiz generation and performance analytics platform bui
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/eduai-quiz.git
+git clone https://github.com/your-username/eduai-quiz.git](https://github.com/limitless235/Exam-Prep-App.git
 cd eduai-quiz
 
 # Install dependencies
