@@ -1,12 +1,12 @@
 # Exam-Ace Quiz Application
 
-EduAI is an AI-powered quiz generation and performance analytics platform built using Mistral-7B, React, Supabase, and Tailwind CSS. It enables users to generate subject-specific quizzes, track progress over time, and receive intelligent feedback on their performance.
+Exam-Ace is an AI-powered quiz generation and performance analytics platform built using Mistral-7B, React, Supabase, and Tailwind CSS. It enables users to generate subject-specific quizzes, track progress over time, and receive intelligent feedback on their performance.
 
 ---
 
 ## Live Demo
 
-[Access the Live Application](https://your-deployed-url.com)
+[Access the Live Application](https://exam-ace-ai.vercel.app/)
 
 ---
 
