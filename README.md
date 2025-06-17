@@ -14,15 +14,15 @@ Exam-Ace is an AI-powered quiz generation and performance analytics platform bui
 
 | Dashboard | Quiz Interface |
 |-----------|----------------|
-| ![Dashboard](./screenshots/dashboard.png) | ![Quiz](./screenshots/quiz.png) |
+| ![Dashboard](./screenshots/home.png) | ![Quiz](./screenshots/quiz.png) |
 
 | Results Page | Performance Analytics |
 |--------------|-----------------------|
-| ![Results](./screenshots/results.png) | ![Analytics](./screenshots/analytics.png) |
+| ![Results](./screenshots/results.png) | ![Performance](./screenshots/performance.png) |
 
-| AI Explanation | Profile Page |
+| AI Explanation | Login Page |
 |----------------|--------------|
-| ![Explanation](./screenshots/explanation.png) | ![Profile](./screenshots/profile.png) |
+| ![Results](./screenshots/results.png) | ![Login](./screenshots/login.png) |
 
 ---
 
